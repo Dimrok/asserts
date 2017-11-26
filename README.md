@@ -1,5 +1,7 @@
 # Asserts
 
+[![Build Status](https://travis-ci.org/Dimrok/asserts.svg?branch=master)](https://travis-ci.org/Dimrok/asserts)
+
 A simple library glorifying python3 assert in many ways.
 
 ## Examples
