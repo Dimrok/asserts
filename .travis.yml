@@ -1,0 +1,6 @@
+language: bash
+
+script:
+  - python3 __init__.py
+
+# vim:set et ts=2 sw=2:
