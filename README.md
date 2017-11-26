@@ -13,18 +13,18 @@ assertIn(3, [1, 2, 3])
 
 ## Functions
 
-> assertIn
-> assertNin
-> assertEq
-> assertNeq
-> assertGt
-> assertGe
-> assertLt
-> assertLe
-> assertIsInstance
-> assertNisInstance
-> assertThrow
-> assertNoThrow
+- assertIn
+- assertNin
+- assertEq
+- assertNeq
+- assertGt
+- assertGe
+- assertLt
+- assertLe
+- assertIsInstance
+- assertNisInstance
+- assertThrow
+- assertNoThrow
 
 ## Tests
 
