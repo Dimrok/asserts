@@ -1,10 +1,10 @@
 def assertIn(v, c):
   if not v in c:
-    raise AssertionError('{} not in {}'.format(c, v))
+    raise AssertionError('{} not in {}'.format(v, c))
 
 def assertNin(v, c):
   if v in c:
-    raise AssertionError('{} in {}'.format(c, v))
+    raise AssertionError('{} in {}'.format(v, c))
 
 def assertEq(l, r):
   if l != r:
